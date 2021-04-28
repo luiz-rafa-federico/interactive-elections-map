@@ -1,2 +1,2 @@
 # interactive-elections-map
-.js practice, using third-party code to populate the map and make it dynamic.
+Populate the map and make it dynamic.
